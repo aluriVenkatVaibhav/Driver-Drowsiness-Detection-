@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+mediapipe
+scipy
+tensorflow
+keras
+numpy
+pillow
+moviepy
